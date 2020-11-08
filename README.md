@@ -6,7 +6,7 @@ Creating a python-menu program to create automation
 
 ## Team Members
 **1. Akshaya Balaji**
-Github Profile : https://github.com/akshayavb99.
+Github Profile : @github/akshayavb99 
 Files created:
 - lvm.py
 - docker.py
