@@ -2,7 +2,7 @@
 
 # ArthTeamTasks-Repo
 ## Task Description 
-Creating a python-menu program to create automation
+Creating a python-menu program to enable automation
 
 ## Team Members
 **1. Akshaya Balaji**
