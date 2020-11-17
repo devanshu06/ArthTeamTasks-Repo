@@ -17,6 +17,7 @@ Github Profile : https://github.com/devanshu06.
 
 Files created:
 - aws_cli & cloudfront.py
+- hadoop.py
 
 **3. Sanchita Agrawal**
 Github Profile : https://github.com/sanchita307.
